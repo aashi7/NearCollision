@@ -1,11 +1,21 @@
 # Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges  
 
-Aashi Manglik, Xinshuo Weng, Eshed Ohn-Bar, Kris Kitani 
+<img align="center" src="https://github.com/aashi7/NearCollision/blob/master/github_demo.gif">
 
-Carnegie Mellon University
-In IROS, 2019
+This repository contains the official python implementation for "[Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges](https://arxiv.org/pdf/1903.09102.pdf)". Please also check out our Project Page [here](https://aashi7.github.io/NearCollision.html). If you find this code useful, please cite our paper:
 
-[Project Page](https://aashi7.github.io/NearCollision.html)
+```
+@article{Manglik2019, 
+  archivePrefix = {arXiv}, 
+  arxivId = {1903.09102}, 
+  author = {Manglik, Aashi and Weng, Xinshuo and Ohn-bar, Eshed and Kitani, Kris}, 
+  eprint = {1903.09102}, 
+  journal = {arXiv:1903.09102}, 
+  title = {{Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges}}, 
+  url = {https://arxiv.org/pdf/1903.09102.pdf}, 
+  year = {2019} 
+}
+```
 
 ### Requirements
 - Python 2.7
@@ -25,18 +35,3 @@ In IROS, 2019
 
 ### Training
 Please see 
-
-### Citation
-If you use this code for your research, please consider citing:
-```
-@inProceedings{cmrKanazawa18,
-  title={Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges},
-  author = {Aashi Manglik and
-  Xinshuo Weng
-  and Eshed Ohn-Bar
-  and Kris Kitani},
-  booktitle={IROS},
-  year={2019}
-}
-
-```
