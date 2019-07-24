@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/aashi7/NearCollision/blob/master/demo.gif">
 
-This repository contains the official tensorflow implementation for "[Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges](https://arxiv.org/pdf/1903.09102.pdf)". Please also check out our Project Page [here](https://aashi7.github.io/NearCollision.html). If you find this code useful, please cite our paper:
+This repository contains the official tensorflow implementation for "[Forecasting Time-to-Collision from Monocular Video: Feasibility, Dataset and Challenges](https://arxiv.org/pdf/1903.09102.pdf)". Please also check out our project page [here](https://aashi7.github.io/NearCollision.html). If you find this code useful, please cite our paper:
 
 ```
 @article{Manglik2019, 
