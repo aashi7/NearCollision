@@ -26,7 +26,7 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 |-| ------------------ | -------      |  
 |1|  mats_nov         | Left images, Right images, 3D point cloud, Calibration       |   
 |2|  mats_dec       | Left images, Right images, 3D point cloud, Calibration     |   
-|3|  mat_stereo_camera/mats_3   | Left images, Right images, Depth Maps from Stereo Camera|  
+|3|  mat_stereo_camera  | Left images, Right images, Depth Maps from Stereo Camera|  
 
 
 ### Requirements
