@@ -39,7 +39,7 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 
 ### Demo
-1. Download the trained model:
+1. Download the trained model: [6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
 
 
 2. Run the demo:
