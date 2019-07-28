@@ -37,7 +37,6 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 #### Setup virtualenv
 
-
 ### Demo
 1. Download the trained model:  
 [vgg_on_voc800](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)    
@@ -46,6 +45,9 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 2. Download preprocessed test data in ```.h5``` format:     
 [6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl)  
 
+### Bounding Boxes 
+
+We used [Faster RCNN](https://github.com/endernewton/tf-faster-rcnn) to get the bounding boxes of people. Please see ```preprocessing/getBoundingBoxes```.
 
 ### Implementing in ROS   
 Please see ```test/multi_stream_prediction.py```  
