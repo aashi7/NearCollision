@@ -46,11 +46,6 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 2. Download preprocessed test data in ```.h5``` format:     
 [6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl)  
 
-3. Run the demo:
-
-
-### Training
-Please see 
 
 ### Implementing in ROS   
 Please see ```test/multi_stream_prediction.py```  
