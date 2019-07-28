@@ -30,8 +30,8 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 
 ### Requirements
-- Python 2.7
-- [PyTorch](https://pytorch.org/) 
+- Python 3.6
+- [PyTorch](https://pytorch.org/) tested on ```0.4.0```
 
 ### Installation
 
@@ -39,12 +39,12 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 
 ### Demo
-1. Download the trained model: 
-[vgg_on_voc800](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
-[6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
+1. Download the trained model:  
+[vgg_on_voc800](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF) 
+[6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF) 
 
-2. Download preprocessed test data in ```.h5``` format:
-[6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl) 
+2. Download preprocessed test data in ```.h5``` format: 
+[6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl)  
 
 3. Run the demo:
 
