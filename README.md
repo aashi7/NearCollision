@@ -39,10 +39,14 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 
 ### Demo
-1. Download the trained model: [6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
+1. Download the trained model: 
+[vgg_on_voc800](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
+[6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)
 
+2. Download preprocessed test data in ```.h5``` format:
+[6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl) 
 
-2. Run the demo:
+3. Run the demo:
 
 
 ### Training
