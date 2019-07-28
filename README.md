@@ -43,7 +43,7 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 [vgg_on_voc800](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF)    
 [6Image6s_027](https://drive.google.com/drive/u/1/folders/1pcXLdWpLa8eXp7kv5uHuNW3MyuphSPoF) 
 
-2. Download preprocessed test data in ```.h5``` format: 
+2. Download preprocessed test data in ```.h5``` format:     
 [6ImageTest.h5](https://drive.google.com/drive/u/1/folders/1uJ3AEIyaUTtOY4t8w4N0eAbiw7PJkOOl)  
 
 3. Run the demo:
@@ -51,3 +51,6 @@ Here is [link](https://drive.google.com/drive/u/1/folders/1tAywlmXA3iDJtggUIP3FF
 
 ### Training
 Please see 
+
+### Implementing in ROS   
+Please see ```test/multi_stream_prediction.py```  
